@@ -4,8 +4,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>24</x>
-      <y>252</y>
+      <x>12</x>
+      <y>240</y>
       <w>108</w>
       <h>60</h>
     </coordinates>
@@ -19,30 +19,30 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>84</x>
+      <x>72</x>
       <y>192</y>
-      <w>84</w>
-      <h>84</h>
+      <w>96</w>
+      <h>72</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
-    <additional_attributes>50.0;10.0;10.0;50.0</additional_attributes>
+    <additional_attributes>60.0;10.0;10.0;40.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>132</x>
+      <x>96</x>
       <y>192</y>
-      <w>60</w>
-      <h>168</h>
+      <w>96</w>
+      <h>180</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
-    <additional_attributes>30.0;10.0;10.0;120.0</additional_attributes>
+    <additional_attributes>60.0;10.0;10.0;130.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>84</x>
-      <y>336</y>
+      <x>48</x>
+      <y>348</y>
       <w>120</w>
       <h>60</h>
     </coordinates>
@@ -56,7 +56,7 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>168</x>
+      <x>156</x>
       <y>264</y>
       <w>108</w>
       <h>60</h>
@@ -73,16 +73,16 @@
     <coordinates>
       <x>192</x>
       <y>192</y>
-      <w>48</w>
+      <w>36</w>
       <h>96</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;10.0;20.0;60.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>276</x>
+      <x>240</x>
       <y>336</y>
       <w>108</w>
       <h>60</h>
@@ -99,11 +99,11 @@
     <coordinates>
       <x>228</x>
       <y>192</y>
-      <w>132</w>
+      <w>96</w>
       <h>168</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;10.0;90.0;120.0</additional_attributes>
+    <additional_attributes>10.0;10.0;60.0;120.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
@@ -123,8 +123,8 @@ FlyBehavior
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>420</x>
-      <y>276</y>
+      <x>432</x>
+      <y>336</y>
       <w>120</w>
       <h>60</h>
     </coordinates>
@@ -137,7 +137,7 @@ FlyBehavior
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>552</x>
+      <x>588</x>
       <y>336</y>
       <w>108</w>
       <h>60</h>
@@ -151,40 +151,40 @@ FlyBehavior
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>480</x>
+      <x>492</x>
       <y>204</y>
-      <w>72</w>
-      <h>96</h>
+      <w>60</w>
+      <h>156</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;.</panel_attributes>
-    <additional_attributes>40.0;10.0;10.0;60.0</additional_attributes>
+    <additional_attributes>30.0;10.0;10.0;110.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>564</x>
       <y>204</y>
-      <w>60</w>
+      <w>96</w>
       <h>156</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;.</panel_attributes>
-    <additional_attributes>10.0;10.0;30.0;110.0</additional_attributes>
+    <additional_attributes>10.0;10.0;60.0;110.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>696</x>
       <y>120</y>
-      <w>60</w>
-      <h>96</h>
+      <w>120</w>
+      <h>48</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;.</panel_attributes>
-    <additional_attributes>30.0;10.0;10.0;60.0</additional_attributes>
+    <additional_attributes>80.0;10.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>708</x>
+      <x>768</x>
       <y>48</y>
       <w>144</w>
       <h>84</h>
@@ -199,19 +199,19 @@ QuackBehavior
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>756</x>
+      <x>732</x>
       <y>120</y>
-      <w>48</w>
-      <h>192</h>
+      <w>120</w>
+      <h>144</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;.</panel_attributes>
-    <additional_attributes>10.0;10.0;20.0;140.0</additional_attributes>
+    <additional_attributes>80.0;10.0;10.0;100.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
       <x>648</x>
-      <y>192</y>
+      <y>144</y>
       <w>108</w>
       <h>60</h>
     </coordinates>
@@ -224,8 +224,8 @@ QuackBehavior
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>720</x>
-      <y>288</y>
+      <x>684</x>
+      <y>240</y>
       <w>120</w>
       <h>60</h>
     </coordinates>
@@ -240,17 +240,17 @@ QuackBehavior
     <coordinates>
       <x>792</x>
       <y>120</y>
-      <w>72</w>
-      <h>120</h>
+      <w>96</w>
+      <h>228</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;.</panel_attributes>
-    <additional_attributes>10.0;10.0;40.0;80.0</additional_attributes>
+    <additional_attributes>60.0;10.0;10.0;170.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>792</x>
-      <y>216</y>
+      <x>756</x>
+      <y>324</y>
       <w>108</w>
       <h>60</h>
     </coordinates>
@@ -277,12 +277,12 @@ m2=1</panel_attributes>
     <coordinates>
       <x>276</x>
       <y>60</y>
-      <w>456</w>
+      <w>516</w>
       <h>48</h>
     </coordinates>
     <panel_attributes>lt=-&gt;&gt;&gt;
 m2=1</panel_attributes>
-    <additional_attributes>10.0;10.0;360.0;10.0</additional_attributes>
+    <additional_attributes>10.0;10.0;410.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
@@ -303,6 +303,82 @@ m2=1</panel_attributes>
 + performFly()
 + setFlyBehavior()
 + setQuackBehavior()
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>540</x>
+      <y>204</y>
+      <w>60</w>
+      <h>252</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.</panel_attributes>
+    <additional_attributes>10.0;10.0;30.0;190.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>540</x>
+      <y>432</y>
+      <w>108</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>teleport
+--
++ fly()
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>852</x>
+      <y>120</y>
+      <w>84</w>
+      <h>336</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.</panel_attributes>
+    <additional_attributes>50.0;10.0;10.0;260.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>816</x>
+      <y>432</y>
+      <w>120</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>roboQuack
+--
++ quack()
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>276</x>
+      <y>192</y>
+      <w>120</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;80.0;50.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>336</x>
+      <y>252</y>
+      <w>108</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>MechaDuck
+--
++ display()
+
 </panel_attributes>
     <additional_attributes/>
   </element>
