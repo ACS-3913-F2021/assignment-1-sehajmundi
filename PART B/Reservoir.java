@@ -19,7 +19,7 @@ public class Reservoir implements SamplingStrategy
 
         for(int i = reservoir.length; i < population.length; i++)
         {
-            int j = generator.nextInt(population.length);//generating random rumber less than the size of names array
+            int j = generator.nextInt(population.length)+1;//generating random rumber less than the size of names array
             if(j <= reservoir.length-1)
             {
                 reservoir[j] = population[i];//replacing name at j in reservoir with name at i in names
